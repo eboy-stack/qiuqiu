@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://qiu-qiu.de-rse.org/sitemap.xml
